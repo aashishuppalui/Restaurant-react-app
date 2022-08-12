@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UI/UX Restaurant Landing Page Website
+This is a code repository for the corresponding video tutorial. In this video, we're going to build a Modern UIgit /UX Restaurant Landing Page Website
 
 You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
 
